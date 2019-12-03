@@ -1,0 +1,283 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Resum</title>
+<link href="Безымянный1.css" rel="stylesheet" type="text/css">
+<link href="index.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="container">
+<div id="wb_Shape1" style="position:absolute;left:2px;top:0px;width:300px;height:864px;z-index:0;">
+<img src="images/img0001.png" id="Shape1" alt="" style="width:300px;height:864px;"></div>
+<div id="wb_Shape2" style="position:absolute;left:906px;top:0px;width:300px;height:864px;z-index:1;">
+<img src="images/img0002.png" id="Shape2" alt="" style="width:300px;height:864px;"></div>
+<div id="wb_Text1" style="position:absolute;left:55px;top:261px;width:205px;height:102px;z-index:2;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:15px;">I’m a web designer &amp; web developer living in Central Java, Indonesia. I am a fan of photography, design, and entrepreneurship. I’m also interested in travel and movies.</span></div>
+<div id="wb_Text2" style="position:absolute;left:55px;top:179px;width:250px;height:49px;z-index:3;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:43px;">HELLO,</span></div>
+<div id="wb_Text3" style="position:absolute;left:57px;top:232px;width:255px;height:19px;z-index:4;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:17px;">I’M ALIF SETYAWAN</span></div>
+<div id="wb_Text4" style="position:absolute;left:52px;top:635px;width:250px;height:16px;z-index:5;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">CONTACT :</span></div>
+<div id="wb_Text5" style="position:absolute;left:73px;top:665px;width:250px;height:16px;z-index:6;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">+62 8058 6352 22</span></div>
+<div id="wb_Text6" style="position:absolute;left:73px;top:693px;width:247px;height:16px;z-index:7;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">yourmail@gmail.com</span></div>
+<div id="wb_Text7" style="position:absolute;left:74px;top:721px;width:246px;height:16px;z-index:8;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">www.yoursite.com</span></div>
+<div id="wb_Text8" style="position:absolute;left:382px;top:32px;width:250px;height:28px;z-index:9;text-align:left;">
+<span style="color:#000000;font-family:'Arial Black';font-size:20px;">EDUCATION</span></div>
+<div id="wb_Text13" style="position:absolute;left:381px;top:248px;width:250px;height:28px;z-index:10;text-align:left;">
+<span style="color:#000000;font-family:'Arial Black';font-size:20px;">EXPERIENCE</span></div>
+<table style="position:absolute;left:382px;top:292px;width:376px;height:284px;z-index:11;" cellpadding="0" cellspacing="1" id="Table1">
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:top;width:185px;height:98px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">2012-2017</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">CEO &amp; FOUNDER</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">ANIME21NETWORK</span></div>
+</td>
+<td style="background-color:transparent;text-align:left;vertical-align:top;height:98px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">2014</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">FOUNDER &amp; WRITER</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">MONCTONLIFE.COM</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:top;width:185px;height:90px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">2012-2013</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">FOUNDER</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">SPENZASUMPIUH.COM</span></div>
+</td>
+<td style="background-color:transparent;text-align:left;vertical-align:top;height:90px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">2016 - 2018</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">CEO &amp; FOUNDER</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">ANIME21STORE</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:top;width:185px;height:92px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">2012-2015</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">THEME CREATOR</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">BLOGGER</span></div>
+</td>
+<td style="background-color:transparent;text-align:left;vertical-align:top;height:92px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">2017 - 2018</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">WEB DESIGNER</span></div>
+<div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;">PESTA FILM SOLO</span></div>
+</td>
+</tr>
+</table>
+<div id="wb_Text14" style="position:absolute;left:381px;top:580px;width:250px;height:28px;z-index:12;text-align:left;">
+<span style="color:#000000;font-family:'Arial Black';font-size:20px;">SKILLS</span></div>
+<table style="position:absolute;left:381px;top:635px;width:100px;height:201px;z-index:13;" cellpadding="0" cellspacing="1" id="Table2">
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:32px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;"> Photoshop</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:32px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;"> Illustrator</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:32px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;"> Premiere</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:32px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;"> After Effect</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:32px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;"> Ms Word</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:34px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;"> Ms Excel</span></div>
+</td>
+</tr>
+</table>
+<table style="position:absolute;left:639px;top:635px;width:100px;height:204px;z-index:14;" cellpadding="0" cellspacing="1" id="Table3">
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:34px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;">HTML</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:25px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;">CSS</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:34px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;">PHP</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:34px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;">WordPress</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:34px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;">Blogger</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:36px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:16px;">SEO</span></div>
+</td>
+</tr>
+</table>
+<div id="wb_Shape3" style="position:absolute;left:491px;top:635px;width:20px;height:20px;z-index:15;">
+<img src="images/img0003.png" id="Shape3" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape4" style="position:absolute;left:519px;top:635px;width:20px;height:20px;z-index:16;">
+<img src="images/img0004.png" id="Shape4" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape5" style="position:absolute;left:549px;top:635px;width:20px;height:20px;z-index:17;">
+<img src="images/img0005.png" id="Shape5" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape6" style="position:absolute;left:578px;top:635px;width:20px;height:20px;z-index:18;">
+<img src="images/img0006.png" id="Shape6" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape7" style="position:absolute;left:491px;top:673px;width:20px;height:20px;z-index:19;">
+<img src="images/img0007.png" id="Shape7" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape8" style="position:absolute;left:520px;top:673px;width:20px;height:20px;z-index:20;">
+<img src="images/img0008.png" id="Shape8" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape9" style="position:absolute;left:549px;top:673px;width:20px;height:20px;z-index:21;">
+<img src="images/img0009.png" id="Shape9" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape11" style="position:absolute;left:491px;top:709px;width:20px;height:20px;z-index:22;">
+<img src="images/img0010.png" id="Shape11" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape12" style="position:absolute;left:520px;top:709px;width:20px;height:20px;z-index:23;">
+<img src="images/img0011.png" id="Shape12" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape15" style="position:absolute;left:491px;top:746px;width:20px;height:20px;z-index:24;">
+<img src="images/img0012.png" id="Shape15" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape16" style="position:absolute;left:519px;top:746px;width:20px;height:20px;z-index:25;">
+<img src="images/img0013.png" id="Shape16" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape17" style="position:absolute;left:549px;top:746px;width:20px;height:20px;z-index:26;">
+<img src="images/img0014.png" id="Shape17" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape19" style="position:absolute;left:491px;top:777px;width:20px;height:20px;z-index:27;">
+<img src="images/img0015.png" id="Shape19" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape20" style="position:absolute;left:520px;top:777px;width:20px;height:20px;z-index:28;">
+<img src="images/img0016.png" id="Shape20" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape21" style="position:absolute;left:549px;top:777px;width:20px;height:20px;z-index:29;">
+<img src="images/img0017.png" id="Shape21" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape22" style="position:absolute;left:578px;top:777px;width:20px;height:20px;z-index:30;">
+<img src="images/img0018.png" id="Shape22" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape23" style="position:absolute;left:491px;top:807px;width:20px;height:20px;z-index:31;">
+<img src="images/img0019.png" id="Shape23" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape24" style="position:absolute;left:520px;top:807px;width:20px;height:20px;z-index:32;">
+<img src="images/img0020.png" id="Shape24" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape25" style="position:absolute;left:550px;top:807px;width:20px;height:20px;z-index:33;">
+<img src="images/img0021.png" id="Shape25" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape26" style="position:absolute;left:579px;top:807px;width:20px;height:20px;z-index:34;">
+<img src="images/img0022.png" id="Shape26" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape27" style="position:absolute;left:757px;top:807px;width:20px;height:20px;z-index:35;">
+<img src="images/img0023.png" id="Shape27" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape28" style="position:absolute;left:786px;top:807px;width:20px;height:20px;z-index:36;">
+<img src="images/img0024.png" id="Shape28" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape31" style="position:absolute;left:757px;top:777px;width:20px;height:20px;z-index:37;">
+<img src="images/img0025.png" id="Shape31" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape32" style="position:absolute;left:786px;top:777px;width:20px;height:20px;z-index:38;">
+<img src="images/img0026.png" id="Shape32" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape33" style="position:absolute;left:815px;top:777px;width:20px;height:20px;z-index:39;">
+<img src="images/img0027.png" id="Shape33" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape34" style="position:absolute;left:844px;top:777px;width:20px;height:20px;z-index:40;">
+<img src="images/img0028.png" id="Shape34" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape37" style="position:absolute;left:785px;top:746px;width:20px;height:20px;z-index:41;">
+<img src="images/img0029.png" id="Shape37" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape38" style="position:absolute;left:757px;top:746px;width:20px;height:20px;z-index:42;">
+<img src="images/img0030.png" id="Shape38" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape39" style="position:absolute;left:757px;top:709px;width:20px;height:20px;z-index:43;">
+<img src="images/img0031.png" id="Shape39" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape40" style="position:absolute;left:786px;top:709px;width:20px;height:20px;z-index:44;">
+<img src="images/img0032.png" id="Shape40" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape41" style="position:absolute;left:786px;top:673px;width:20px;height:20px;z-index:45;">
+<img src="images/img0033.png" id="Shape41" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape42" style="position:absolute;left:757px;top:673px;width:20px;height:20px;z-index:46;">
+<img src="images/img0034.png" id="Shape42" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape43" style="position:absolute;left:757px;top:635px;width:20px;height:20px;z-index:47;">
+<img src="images/img0035.png" id="Shape43" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape44" style="position:absolute;left:785px;top:635px;width:20px;height:20px;z-index:48;">
+<img src="images/img0036.png" id="Shape44" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape45" style="position:absolute;left:815px;top:635px;width:20px;height:20px;z-index:49;">
+<img src="images/img0037.png" id="Shape45" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape46" style="position:absolute;left:815px;top:673px;width:20px;height:20px;z-index:50;">
+<img src="images/img0038.png" id="Shape46" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape47" style="position:absolute;left:815px;top:709px;width:20px;height:20px;z-index:51;">
+<img src="images/img0039.png" id="Shape47" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape48" style="position:absolute;left:844px;top:709px;width:20px;height:20px;z-index:52;">
+<img src="images/img0040.png" id="Shape48" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape50" style="position:absolute;left:844px;top:635px;width:20px;height:20px;z-index:53;">
+<img src="images/img0041.png" id="Shape50" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Line1" style="position:absolute;left:342px;top:29px;width:0px;height:803px;z-index:54;">
+<img src="images/img0042.png" id="Line1" alt=""></div>
+<div id="wb_Line2" style="position:absolute;left:377px;top:604px;width:49px;height:0px;z-index:55;">
+<img src="images/img0043.png" id="Line2" alt=""></div>
+<div id="wb_Line3" style="position:absolute;left:377px;top:272px;width:49px;height:0px;z-index:56;">
+<img src="images/img0044.png" id="Line3" alt=""></div>
+<div id="wb_Line4" style="position:absolute;left:377px;top:56px;width:49px;height:0px;z-index:57;">
+<img src="images/img0045.png" id="Line4" alt=""></div>
+<table style="position:absolute;left:382px;top:79px;width:299px;height:153px;z-index:58;" cellpadding="0" cellspacing="1" id="Table4">
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;width:90px;height:37px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;"> 2004-2005</span></div>
+</td>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:37px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;"> TK AISYAH SELANEGARA</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;width:90px;height:37px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;"> 2005-2011</span></div>
+</td>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:37px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;"> SD NEGERI 2 KEBOKURA</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;width:90px;height:37px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;"> 2011-2013</span></div>
+</td>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:37px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;"> SMP NEGERI 1 SUMPIUH</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;width:90px;height:37px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;"> 2013-2016</span></div>
+</td>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:37px;"><div><span style="color:#000000;font-family:'Bookman Old Style';font-size:15px;"> SMA NEGERI 1 SUMPIUH</span></div>
+</td>
+</tr>
+</table>
+<div id="wb_Text9" style="position:absolute;left:927px;top:79px;width:250px;height:28px;z-index:59;text-align:left;">
+<span style="color:#FFFFFF;font-family:'Arial Black';font-size:20px;">LANGUAGES</span></div>
+<div id="wb_Line5" style="position:absolute;left:923px;top:300px;width:49px;height:0px;z-index:60;">
+<img src="images/img0046.png" id="Line5" alt=""></div>
+<table style="position:absolute;left:927px;top:128px;width:124px;height:105px;z-index:61;" cellpadding="0" cellspacing="1" id="Table5">
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:35px;"><div><span style="color:#FFFFFF;font-family:'Bookman Old Style';font-size:17px;">INDONESIAN</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:32px;"><div><span style="color:#FFFFFF;font-family:'Bookman Old Style';font-size:16px;">ENGLISH</span></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:transparent;text-align:left;vertical-align:middle;height:34px;"><div><span style="color:#FFFFFF;font-family:'Bookman Old Style';font-size:16px;"> JAVANESE</span></div>
+</td>
+</tr>
+</table>
+<div id="wb_Shape10" style="position:absolute;left:1063px;top:136px;width:20px;height:20px;z-index:62;">
+<img src="images/img0047.png" id="Shape10" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape13" style="position:absolute;left:1091px;top:136px;width:20px;height:20px;z-index:63;">
+<img src="images/img0048.png" id="Shape13" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape14" style="position:absolute;left:1119px;top:136px;width:20px;height:20px;z-index:64;">
+<img src="images/img0049.png" id="Shape14" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape18" style="position:absolute;left:1147px;top:136px;width:20px;height:20px;z-index:65;">
+<img src="images/img0050.png" id="Shape18" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape52" style="position:absolute;left:1148px;top:208px;width:20px;height:20px;z-index:66;">
+<img src="images/img0051.png" id="Shape52" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape29" style="position:absolute;left:1063px;top:171px;width:20px;height:20px;z-index:67;">
+<img src="images/img0052.png" id="Shape29" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape30" style="position:absolute;left:1091px;top:171px;width:20px;height:20px;z-index:68;">
+<img src="images/img0053.png" id="Shape30" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape35" style="position:absolute;left:1119px;top:171px;width:20px;height:20px;z-index:69;">
+<img src="images/img0054.png" id="Shape35" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape36" style="position:absolute;left:1063px;top:208px;width:20px;height:20px;z-index:70;">
+<img src="images/img0055.png" id="Shape36" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape49" style="position:absolute;left:1091px;top:208px;width:20px;height:20px;z-index:71;">
+<img src="images/img0056.png" id="Shape49" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Shape51" style="position:absolute;left:1119px;top:208px;width:20px;height:20px;z-index:72;">
+<img src="images/img0057.png" id="Shape51" alt="" style="width:20px;height:20px;"></div>
+<div id="wb_Text10" style="position:absolute;left:927px;top:276px;width:250px;height:28px;z-index:73;text-align:left;">
+<span style="color:#FFFFFF;font-family:'Arial Black';font-size:20px;">HOBBIES</span></div>
+<div id="wb_Text11" style="position:absolute;left:927px;top:320px;width:246px;height:19px;z-index:74;text-align:left;">
+<span style="color:#FFFFFF;font-family:'Bookman Old Style';font-size:15px;">#BLOGGING</span></div>
+<div id="wb_Text12" style="position:absolute;left:1040px;top:320px;width:246px;height:19px;z-index:75;text-align:left;">
+<span style="color:#FFFFFF;font-family:'Bookman Old Style';font-size:15px;">#SWIMMING</span></div>
+<div id="wb_Text15" style="position:absolute;left:927px;top:344px;width:246px;height:19px;z-index:76;text-align:left;">
+<span style="color:#FFFFFF;font-family:'Bookman Old Style';font-size:15px;">#DIVING</span></div>
+<div id="wb_Text16" style="position:absolute;left:1010px;top:344px;width:246px;height:19px;z-index:77;text-align:left;">
+<span style="color:#FFFFFF;font-family:'Bookman Old Style';font-size:15px;">#GAMES</span></div>
+</div>
+</body>
+</html>
